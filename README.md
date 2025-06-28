@@ -20,15 +20,6 @@
 🎨 Styling:  
 🎨 TailwindCSS · CSS · HTML
 
----
-
-### 📊 My GitHub Life
-
-<img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=monokai" width="410" />
-<img src="https://streak-stats.demolab.com?user=your-username&theme=monokai" width="410" />
-
----
-
 ### 🔗 Let's Link Up
 
 <a href="mailto:your.email@gmail.com">📧 Gmail</a> &nbsp; | &nbsp;
